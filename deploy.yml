@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: nalubolurajasekhar7386/mydockerproject005:myzomatoimage
+        image: nalubolurajasekhar7386/netflix:v2
         ports:
           - containerPort: 80
 ---
